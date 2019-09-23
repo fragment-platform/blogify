@@ -1,4 +1,0 @@
-meta.toml
-test.html
-assets/corgis.gif
-dog.jpg
